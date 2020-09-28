@@ -6,3 +6,5 @@ Kike Oroco
 Beto Ortiz
 
 Arbitraje en las finanzas
+
+Nueva edición.
