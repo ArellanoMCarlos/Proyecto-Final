@@ -5,8 +5,4 @@ Ingeniería Financiera.
 Kike Oroco
 Beto Ortiz
 
-Arbitraje en las finanzas
-
-Nueva edición.
-
-Otro cambio.
+Financiación
